@@ -1,5 +1,3 @@
-Nada de lo anterior.
-
 1.	Tener en cuenta buenas prácticas en el desarrollo de aplicaciones siguiendo el modelo SDLC (Ciclo de vida de Desarrollo de Software) en la definición, desarrollo, implementación y mantenimiento del código.
 2.	Aplicar buenas prácticas en la codificación segura. Entre otras:
 1.	Validando entradas
