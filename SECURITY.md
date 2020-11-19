@@ -33,6 +33,7 @@ Seguir los estándares de desarrollo seguro establecidos en:
 Utilizar herramientas de análisis de código verificadas por la organización y validando que el código contemple: 
 
  **- La inexistencia de incidencias criticas** 
+ 
  **- Una cobertura del 80%**
 
 En caso de dudas sobre las herramientas autorizadas sobre escaneo de código, consultar con tu área de Seguridad/CISO.
